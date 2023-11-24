@@ -1,0 +1,14 @@
+//exp1
+
+PROCEDURE:
+1) Install vmware workstation pro for linux on ubuntu
+Command: sudo bash VMware-Workstation-Full-15.5.1-15018445.x86_64.bundle
+2) Install window 10.iso extension
+VMware is ready to run
+3) Click on create VM and set a path for the window which is installed in
+the local host.
+Provide the virtual memory size, virtual CPU size and other details.
+On Top of Ubuntu the Windows Virtual Machine will be created and
+started running.
+
+//
